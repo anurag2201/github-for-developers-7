@@ -1,2 +1,4 @@
 ##Conflict
 **Issue:** merge-me
+##Conflict.md master
+**issue:** master file
